@@ -1,0 +1,9 @@
+usr/include/chardet/*
+usr/lib/*/lib*.a
+usr/lib/*/lib*.so
+usr/lib/*/pkgconfig/*
+usr/share/man/man3/*
+usr/share/man/*/man3/*
+# don't include .la files, see
+# https://wiki.debian.org/ReleaseGoals/LAFileRemoval
+#usr/lib/*/*.la

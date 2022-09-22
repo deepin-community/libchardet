@@ -1,0 +1,2 @@
+version=3
+https://ftp.oops.org/pub/oops/libchardet/ .*/libchardet-(\d\S*)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))
